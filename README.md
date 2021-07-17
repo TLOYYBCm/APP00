@@ -9,3 +9,6 @@ APP00 is the first attempt to create an EPM Solution in Google Workspace
 - - other users collects the data, 
 - - other users approcves/reject, 
 - - other users can view/observe the Process
+
+2nd ideas:
+- a Concierge should be there like a wizard to guide/help users in their Task/ToDos
